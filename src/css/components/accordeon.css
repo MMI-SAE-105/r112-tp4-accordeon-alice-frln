@@ -16,3 +16,9 @@ details>div{
     padding-left: 130px;
     width : 170 px;
 }
+
+details>summary {
+    position:absolute;
+    top :0;
+    left: 0;
+}
